@@ -87,7 +87,7 @@ Minor clarification questions or adjustments can be discussed after delivery if 
 
 ## Payment terms
 
-Payment details are provided upon acceptance of the quotation.
+Payment details are provided upon acceptance of the quotation. For larger or long-term projects, an initial deposit may be required prior to the commencement of work.
 
 ### Accepted methods
 - Bank transfer (SEPA)
