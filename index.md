@@ -2,79 +2,116 @@
 title: Axiom Editing
 ---
 
-# Axiom Editing
+# Academic Editing and Translation for Research and Grant Writing
 
-Scientific editing and translation for research articles and grant proposals.
+Axiom Editing provides high-level scientific editing and translation services for researchers and institutions.
 
-I help researchers communicate complex ideas with clarity, precision, and academic rigor in English.
+I help transform complex scientific writing into clear, precise, and publication-ready English.
+
+---
+
+## Academic Editing for Non-Native English Researchers
+
+Writing in English for publication or funding applications is demanding, especially for non-native speakers.
+
+I specialize in improving texts written:
+- by non-native English researchers  
+- using automatic translation tools  
+- under tight academic deadlines  
+
+The objective is to produce clear, natural, and academically rigorous English suitable for peer review and evaluation.
 
 ---
 
 ## Services
 
 ### Scientific Editing
-Improving clarity, structure, and language in scientific manuscripts while preserving meaning and author voice.
 
-- Academic copy-editing
-- Language refinement
+Improving clarity, structure, and language in research manuscripts.
+
+- Academic editing (line-by-line)
+- Language correction and rewriting
 - Clarity and coherence improvement
 - Terminology consistency
+- Preparation for journal submission
 
 ---
 
-### Scientific Translation (FR → EN)
-Accurate translation of scientific documents into publication-ready English.
+### Scientific Translation (French → English)
 
-- Research articles
-- PhD theses
-- Conference papers
-- Technical documents
+Translation of scientific documents into fluent, publication-ready English.
+
+- Research articles  
+- PhD theses  
+- Conference papers  
+- Technical and institutional documents  
 
 ---
 
 ### Grant Proposal Editing
-Specialized editing for research funding applications (ANR, Horizon Europe, etc.).
 
-- Structural clarity
-- Argument strengthening
-- Language optimization for reviewers
-- Readability and impact improvement
+Specialized support for research funding applications.
+
+- Clarity and structure of proposals  
+- Strengthening of arguments  
+- Adaptation to evaluation criteria  
+- Improvement of readability for reviewers  
+
+---
+
+## Why work with Axiom Editing
+
+- Documents are edited by native English speaker  
+- Expertise in academic and scientific writing  
+- Experience with European research projects and funding frameworks  
+- Deep understanding of reviewer expectations  
+- Careful attention to clarity, structure, and argumentation  
+
+Each document is edited with respect for its scientific content and disciplinary context.
 
 ---
 
 ## Who I work with
 
-- Academic researchers
-- PhD candidates
-- Postdoctoral researchers
-- Research laboratories
-- Institutions preparing funding applications
-- Grant desks
+- Academic researchers  
+- PhD candidates  
+- Postdoctoral researchers  
+- Research laboratories  
+- Universities and institutions  
+- Grant support offices  
 
 ---
 
-## Approach
+## From draft to publication-ready text
 
 Scientific writing must be precise, structured, and readable.
 
 My work focuses on:
-- improving clarity without altering meaning
-- preserving scientific intent and voice
-- increasing readability for reviewers
-- aligning with academic publication standards
+- improving clarity without altering meaning  
+- refining academic tone and style  
+- increasing readability for reviewers  
+- aligning texts with publication and funding standards  
 
 ---
 
-## Contact
+## Request a quote
 
-Email: evn-ndy.fshr@proton.me
+For inquiries or project evaluation:
 
-You may send a short excerpt (1–2 pages) for evaluation and cost estimate.
+**Email:** evn-ndy.fshr@proton.me  
 
-Typical response time: 24–48 hours.
+You may send:
+- a short excerpt (1–2 pages)  
+- or your full document for quotation  
+
+You will receive:
+- a tailored quote  
+- an estimated turnaround time  
+
+Typical response time: **24–48 hours**
 
 ---
 
 ## Note
 
-I take on a limited number of projects to ensure quality and precision.
+A limited number of projects are accepted at any given time to ensure quality and attention to detail.
