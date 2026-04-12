@@ -85,6 +85,26 @@ Minor clarification questions or adjustments can be discussed after delivery if 
 
 ---
 
+## Payment terms
+
+Payment details are provided upon acceptance of the quotation.
+
+### Accepted methods
+- Bank transfer (SEPA)
+- Other methods may be arranged if necessary
+
+### Payment schedule
+- For standard projects: payment is due upon delivery  
+- For larger projects: partial upfront payment may be required  
+
+### Invoicing
+An invoice is issued for all services.
+
+### Payment deadline
+Payment is due within **30 days** of invoice date, unless otherwise agreed.
+
+---
+
 ## Note
 
 I work on a limited number of projects at a time to ensure quality, precision, and careful attention to each document.
