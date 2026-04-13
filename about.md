@@ -1,5 +1,5 @@
 ---
-title: About — Axiom Editing
+title: About
 ---
 
 # About Axiom Editing
