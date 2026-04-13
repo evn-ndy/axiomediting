@@ -2,13 +2,9 @@
 title: Services
 ---
 
-Axiom Editing provides scientific editing and translation services for researchers, academic authors, and research teams working in English.
+Axiom Editing provides academic proofreading and copy editing services for non-native English-speakers.
 
-The goal is to improve clarity, readability, and publication readiness while preserving intent. 
-
-
-
-We offer three levels of editing depending on the stage and quality of your draft.
+I offer two levels of editing depending on the stage and quality of your draft.
 
 ---
 
