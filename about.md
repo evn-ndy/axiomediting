@@ -20,7 +20,8 @@ My background combines:
 - Scientific editing, writing, and translation across the social sciences, humanities, and environmental sciences
 - Research project coordination and reporting for European and French national programs
 - Support for competitive research funding applications, including ANR and Horizon Europe
-
+</div>
+</div>
 ---
 
 ## Publications and editorial work
