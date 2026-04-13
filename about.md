@@ -28,11 +28,13 @@ My background combines:
 
 I have contributed to peer-reviewed scientific publications in environmental science, Science and Technology Studies (STS), and interdisciplinary research fields.
 
-My work has appeared in journals and academic outlets including:
+My work and work I have edited has appeared in journals and academic outlets including:
 
 - *Environmental Science & Policy*
 - *Science & Technology Studies*
 - *Ethics and Information Technology*
+- *Anthropocene*
+- *Forest Ecology and Management*
 
 I have also contributed to edited volumes and research reports in both academic and policy-oriented contexts, supporting interdisciplinary research dissemination and knowledge transfer.
 
