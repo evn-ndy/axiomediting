@@ -5,7 +5,7 @@ title: About
 <div style="display: flex; gap: 24px; align-items: flex-start;">
 
   <div style="flex: 0 0 180px;">
-    <img src="/assets/images/profile.jpg" alt="Profile photo"
+    <img src="/assets/images/profile.jpg" alt="Evan Andrew Fisher, PhD"
          style="width: 180px; height: auto; border-radius: 4px;">
   </div>
   <div style="flex: 1;" markdown="1">
