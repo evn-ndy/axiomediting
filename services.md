@@ -78,7 +78,7 @@ Each sentence is carefully reviewed and revised where necessary to improve clari
 All prices reflect high-quality academic editing and include careful manual review.
 
 ### Basic Editing
-- **€0.05 / word**
+- **€0.05 - €0.75 / word**
 
 ### Line-by-line Editing (Recommended)
 - **€0.08 – €0.10 / word**
