@@ -35,9 +35,9 @@ I have also contributed to edited volumes and research reports in academic and p
 
 ## Approach
 
-Scientific editing involves preserving author’s intent while readability for reviewers and peers and strengthening argument structure and logical flow and ensuring consistency of terminology and academic tone.
-
 The goal is to make research more readable, not to rewrite it. 
+
+Scientific editing entails strengthening argument structure and flow while ensuring consistency in terminology and tone. Without sacrificing the author’s intent.
 
 Each project is treated individually, with attention to disciplinary context, target publication or funding body, and the intended audience (reviewers, editors, evaluators). 
 
