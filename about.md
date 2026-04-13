@@ -38,7 +38,3 @@ Scientific editing focuses on strengthening structure, argument flow, and clarit
 Each project is handled individually, taking into account its academic field, target journal or funding body, and intended audience, including peer reviewers, editors, and evaluators.
 
 Confidentiality, precision, and methodological rigor are central to all collaborations.
-
----
-
-#### [Contact](contact.html)
