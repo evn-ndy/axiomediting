@@ -2,8 +2,6 @@
 title: About
 ---
 
-# About Axiom Editing
-
 Axiom Editing provides scientific editing, translation, and research communication support for academics in the humanities, the social sciences, and environmental sciences.
 
 The focus is on clarity, precision, and coherence in English-language scientific writing, particularly for publication and research funding applications.
