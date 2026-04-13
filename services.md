@@ -1,5 +1,5 @@
 ---
-title: Services — Axiom Editing
+title: Services
 ---
 
 # Services
