@@ -2,53 +2,49 @@
 title: About
 ---
 
-Axiom Editing provides scientific editing, translation, and research communication support for academics in the humanities, the social sciences, and environmental sciences.
-
-The focus is on clarity, precision, and coherence in English-language scientific writing, particularly for publication and research funding applications.
+Axiom Editing provides professional scientific editing, translation, and research communication services for academics and researchers. The service supports French and European scholars in publishing in English-language journals and preparing competitive research grant applications.
 
 ---
 
 ## Profile
 
-I am a native English editor who understands French and European research culture, funding bodies, and publication norms, specializing in supporting French and European researchers publishing in English-language journals.
+I am a native English editor with a strong understanding of French and European research environments, including academic culture, funding systems, and publication standards.
 
-I hold a PhD in Science, Technology and Society (STS) from Mines-ParisTech (PSL University), and have significant experience in research environments across France and Europe.
+I hold a PhD in Science, Technology and Society (STS) from Mines Paris – PSL University, and have worked extensively within research institutions across France and Europe.
 
 My background combines:
-- academic research in Science and Technology Studies (STS), sociolgy, and anthropology
-- scientific writing, editing, and translation in the social sciences, the humanities, and the environmental sciences
-- research project coordination and reporting (European and French national programs)
-- support for research funding applications (ANR, Horizon Europe)
+
+- Academic research in Science and Technology Studies (STS), sociology, and anthropology
+- Scientific editing, writing, and translation across the social sciences, humanities, and environmental sciences
+- Research project coordination and reporting for European and French national programs
+- Support for competitive research funding applications, including ANR and Horizon Europe
 
 ---
 
 ## Publications and editorial work
 
-I have contributed to peer-reviewed scientific publications in environmental science, science and technology studies, and interdisciplinary research fields.
+I have contributed to peer-reviewed scientific publications in environmental science, Science and Technology Studies (STS), and interdisciplinary research fields.
 
-Selected publications include work in:
-- Environmental Science & Policy
-- Science & Technology Studies
-- Ethics and Information Technology
+My work has appeared in journals and academic outlets including:
 
-I have also contributed to edited volumes and research reports in academic and policy contexts.
+- *Environmental Science & Policy*
+- *Science & Technology Studies*
+- *Ethics and Information Technology*
+
+I have also contributed to edited volumes and research reports in both academic and policy-oriented contexts, supporting interdisciplinary research dissemination and knowledge transfer.
 
 ---
 
 ## Approach
 
-The goal is to make research more readable, not to rewrite it. 
+The goal is to make research clearer and more readable, not to rewrite it or alter its meaning.
 
-Scientific editing entails strengthening argument structure and flow while ensuring consistency in terminology and tone. Without sacrificing the author’s intent.
+Scientific editing focuses on strengthening structure, argument flow, and clarity, while ensuring consistent terminology and tone. The author’s intent, voice, and disciplinary framing are always preserved.
 
-Each project is treated individually, with attention to disciplinary context, target publication or funding body, and the intended audience (reviewers, editors, evaluators). 
+Each project is handled individually, taking into account its academic field, target journal or funding body, and intended audience, including peer reviewers, editors, and evaluators.
 
-Confidentiality and rigor are central to all collaborations.
+Confidentiality, precision, and methodological rigor are central to all collaborations.
 
 ---
 
 ## [Contact](contact.html)
-
-Email me a short excerpt to receive a tailored quote and turnaround time:
-
-**Email:** evn-ndy.fshr@proton.me
