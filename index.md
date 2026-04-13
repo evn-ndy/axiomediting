@@ -2,7 +2,7 @@
 title: Axiom Editing
 ---
 
-# Academic Editing and Translation for Research and Grant Writing
+## Academic Editing and Translation for Research and Grant Writing
 
 Axiom Editing provides high-level scientific editing and translation services for researchers and institutions. 
 
