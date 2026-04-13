@@ -1,5 +1,5 @@
 ---
-title: Selected Work — Axiom Editing
+title: Selected Work
 ---
 
 # Selected Work
