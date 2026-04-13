@@ -2,9 +2,14 @@
 title: About
 ---
 
-![Evan Andrew Fisher](/profile.png) Evan Andrew Fisher, PhD
+<div style="display: flex; gap: 24px; align-items: flex-start;">
 
-I am a native English editor with a strong understanding of French and European research environments, including academic culture, funding systems, and publication standards.
+  <div style="flex: 0 0 180px;">
+    <img src="/assets/images/profile.jpg" alt="Profile photo"
+         style="width: 180px; height: auto; border-radius: 4px;">
+  </div>
+
+  <div style="flex: 1;">
 
 I hold a PhD in Science, Technology and Society (STS) from Mines Paris – PSL University, and have worked extensively within research institutions across France and Europe.
 
