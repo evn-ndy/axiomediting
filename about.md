@@ -10,38 +10,13 @@ The focus is on clarity, precision, and coherence in English-language scientific
 
 ## Profile
 
-I am a research professional with a PhD in Science, Technology and Society (STS) from Mines-ParisTech (PSL University), and extensive experience in research environments across France and Europe.
+I am a native-English research professional with a PhD in Science, Technology and Society (STS) from Mines-ParisTech (PSL University), and significant experience in research environments across France and Europe.
 
 My background combines:
-- academic research in science and technology studies
-- research project coordination (European and national programs)
-- scientific writing, editing, and translation (French → English)
+- academic research in Science and Technology Studies (STS), sociolgy, and anthropology.
+- scientific writing, editing, and translation in the social sciences, the humanities, and the environmental sciences
+- research project coordination and reporting (European and national programs)
 - support for research funding applications (ANR, Horizon Europe)
-
----
-
-## Areas of work
-
-### Scientific editing
-Improving clarity, structure, and academic readability of research manuscripts without altering scientific meaning.
-
-### Scientific translation
-Translation of academic and technical texts from French into publication-ready English.
-
-### Research funding support
-Assistance with the preparation, editing, and structuring of research proposals for national and European funding schemes.
-
----
-
-## Professional experience
-
-My work has taken place in academic and research institutions including CNRS-affiliated projects, European research consortia, and university-based research units.
-
-This includes:
-- coordination of interdisciplinary research projects
-- development of data management and quality assurance frameworks
-- contribution to scientific reporting and dissemination activities
-- support for collaborative research design and implementation
 
 ---
 
@@ -60,35 +35,18 @@ I have also contributed to edited volumes and research reports in academic and p
 
 ## Approach
 
-Scientific editing is not a mechanical correction of language.
+Scientific editing involves preserving author’s intent while readability for reviewers and peers and strengthening argument structure and logical flow and ensuring consistency of terminology and academic tone.
 
-It involves:
-- preserving the author’s scientific intent
-- improving readability for reviewers and peers
-- strengthening argument structure and logical flow
-- ensuring consistency of terminology and academic tone
+The goal is to make research more readable, not to rewrite it. 
 
-The goal is to make research more readable, not to rewrite it.
-
----
-
-## Working method
-
-Each project is treated individually, with attention to:
-- disciplinary context
-- target publication or funding body
-- intended audience (reviewers, editors, evaluators)
+Each project is treated individually, with attention to disciplinary context, target publication or funding body, and the intended audience (reviewers, editors, evaluators). 
 
 Confidentiality and rigor are central to all collaborations.
 
 ---
 
-## Contact
+## [Contact](www.axiomediting.com/contact.html)
 
-For inquiries or collaboration:
+For inquiries or collaboration, send a short excerpt to receive initial review and cost estimates to : 
 
 **Email:** evn-ndy.fshr@proton.me
-
-Short excerpts (1–2 pages) may be sent for initial review and cost estimates.
-
-Typical response time: 24–48 hours.
