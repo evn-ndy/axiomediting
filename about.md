@@ -45,7 +45,7 @@ Confidentiality and rigor are central to all collaborations.
 
 ---
 
-## [Contact](www.axiomediting.com/contact.html)
+## [Contact](contact.html)
 
 Send a short excerpt to receive a tailored quote and an estimated turnaround time:
 
