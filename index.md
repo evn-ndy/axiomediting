@@ -2,7 +2,7 @@
 title: Home
 ---
 
-## Academic Editing and Translation for Research and Grant Writing
+## Academic Editing and Translation for Researchers
 
 Axiom Editing provides high-level scientific editing and translation services for researchers and institutions. 
 
@@ -10,14 +10,14 @@ We help transform complex ideas into clear, precise, and publication-ready Engli
 
 ---
 
-## Academic Editing for Non-Native English Researchers
+## Academic Editing for Non-Native English Speakers
 
-We specialize in improving texts written:
-- by non-native English researchers  
-- using automatic translation tools  
-- under tight academic deadlines  
+We specialize in improving texts written by:
+- non-native English researchers
+- or automatic translation tools  
 
----
+While working under tight academic deadlines.
+
 
 ## From draft to publication-ready text
 
@@ -33,17 +33,17 @@ Our work focuses on:
 
 ## Services
 
-### Scientific Editing
+### Manuscript Editing
 
 Improve clarity, structure, and language in research manuscripts.
-
-### Scientific Translation (French → English and English → French)
-
-Translation of scientific documents into fluent, publication-ready English or French.
 
 ### Grant Proposal Editing
 
 Specialized support for research funding applications.
+
+### Translation (French → English and English → French)
+
+Translation of scientific documents into fluent, publication-ready English or French.
 
 ---
 
@@ -56,17 +56,6 @@ Specialized support for research funding applications.
 - Careful attention to clarity, structure, and argumentation  
 
 Each document is edited with respect for its scientific content and disciplinary context.
-
----
-
-## Who I work with
-
-- Academic researchers  
-- PhD candidates  
-- Postdoctoral researchers  
-- Research laboratories  
-- Universities and institutions  
-- Grant support offices  
 
 ---
 
