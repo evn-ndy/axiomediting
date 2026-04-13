@@ -113,6 +113,3 @@ Turnaround times vary based on document length and complexity. [Email me](contac
 👉 **+30% surcharge**
 
 Urgent work is accepted depending on availability.
-
----
-#### [Contact](contact.html)
