@@ -4,7 +4,7 @@ title: Services
 
 Axiom Editing provides academic proofreading and copy editing services for non-native English-speakers.
 
-I offer two levels of editing depending on the stage and quality of your draft.
+I offer two levels of editing, depending on the stage and quality of your draft, as well as translation (FR ↔ EN).
 
 ---
 
