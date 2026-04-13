@@ -2,8 +2,6 @@
 title: Contact
 ---
 
-# Contact
-
 For inquiries, project requests, or document evaluation, please get in touch.
 
 ---
