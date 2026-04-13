@@ -1,5 +1,6 @@
 theme: minima
-
+title: Axiom Editing
+description: Scientific editing and translation services
 header_pages:
   - index.md
   - about.md
