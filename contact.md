@@ -30,7 +30,7 @@ You may also attach a short excerpt (1–2 pages) for initial assessment and cos
 
 ## Turnaround time
 
-We typically respond within **24–48 hours**.
+I typically respond within **24–48 hours**.
 
 Urgent requests are accepted according to availability and include a surcharge.
 
