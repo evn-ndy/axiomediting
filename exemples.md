@@ -2,8 +2,6 @@
 title: Selected Work
 ---
 
-# Selected Work
-
 This page presents a selection of publications associated with my editorial work, as well as my own academic publications.
 
 ---
