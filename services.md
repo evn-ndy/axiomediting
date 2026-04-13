@@ -98,7 +98,15 @@ This ensures adequate time for review and quality control, even for short texts.
 
 ## Delivery
 
-Standard turnaround depends on document length and complexity.
+Standard turnaround depends on document length and complexity. [Send me an email](contact.html) to receive a a precise delay.
+
+**Approximate turnaround time based on document length**
+
+| Document Length | Turnaround Time |
+|-----------------|-----------------|
+| < 5,000 words   | 7 - 10 days     |
+| 10,000 words    | 14 days         |
+| 20,000 words    | 28 days         |
 
 ### Urgent requests:
 
@@ -109,6 +117,6 @@ Urgent work is accepted depending on availability.
 ---
 ## [Contact](contact.html)
 
-Send a short excerpt to receive a tailored quote and an estimated turnaround time.
+Send a short excerpt to receive a tailored quote and a precise turnaround time.
 
 **Email:** evn-ndy.fshr@proton.me
