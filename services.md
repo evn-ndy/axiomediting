@@ -104,12 +104,12 @@ Turnaround times vary based on document length and complexity. [Email me](contac
 
 | Document Length | Turnaround Time |
 |-----------------|-----------------|
-| < 5,000 words   | 7 - 10 days     |
-| 10,000 words    | 14 days         |
-| 20,000 words    | 28 days         |
+| < 5,000 words   |  7 days         |
+| 10,000 words    |  14 days        |
+| 20,000 words    |  28 days        |
 
 ### Urgent requests:
 
-👉 **+30% surcharge**
+**+30% surcharge**
 
 Urgent work is accepted depending on availability.
