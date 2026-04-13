@@ -4,11 +4,7 @@ title: Home
 
 ## Academic Editing for Non-Native English Speakers
 
-Axiom Editing provides high-level scientific editing and translation services for researchers and institutions. We help transform complex ideas into clear, precise, and publication-ready English.
-
-We specialize in improving texts written by:
-- non-native English researchers
-- or automatic translation tools  
+Axiom Editing provides professional scientific editing, translation, and research communication services for academics and researchers. The service supports French and European scholars in publishing in English-language journals and preparing competitive research grant applications.
 
 ---
 
