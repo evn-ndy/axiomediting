@@ -13,15 +13,15 @@ title: About
 ### Evan Andrew Fisher, PhD
 
 I hold a PhD in Science, Technology and Society (STS) from Mines Paris – PSL University, and have worked extensively within research institutions across France and Europe.
-
+</div>
+</div>
 My background combines:
 
 - Academic research in Science and Technology Studies (STS), sociology, and anthropology
 - Scientific editing, writing, and translation across the social sciences, humanities, and environmental sciences
 - Research project coordination and reporting for European and French national programs
 - Support for competitive research funding applications, including ANR and Horizon Europe
-</div>
-</div>
+
 ---
 
 ## Publications and editorial work
