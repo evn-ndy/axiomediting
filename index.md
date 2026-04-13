@@ -24,7 +24,7 @@ Our work focuses on:
     
 ---
 
-## [Services](/services.html)
+## [Services](services.html)
 
 ### Manuscript Editing
 
@@ -40,7 +40,7 @@ Translation of scientific documents into fluent, publication-ready English or Fr
 
 ---
 
-## [Why work with Us?](/about.html)
+## [Why work with Us?](about.html)
 
 - Documents are edited by native English speaker  
 - Expertise in academic and scientific writing  
@@ -52,7 +52,7 @@ Each document is edited with respect for its scientific content and disciplinary
 
 ---
 
-## [Request a quote](/contact.html)
+## [Request a quote](contact.html)
 
 Send a short excerpt to receive a tailored quote and an estimated turnaround time.
 
