@@ -49,6 +49,6 @@ Confidentiality and rigor are central to all collaborations.
 
 ## [Contact](contact.html)
 
-Send a short excerpt to receive a tailored quote and an estimated turnaround time:
+Email me a short excerpt to receive a tailored quote and turnaround time:
 
 **Email:** evn-ndy.fshr@proton.me
