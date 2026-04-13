@@ -4,58 +4,46 @@ title: Axiom Editing
 
 # Academic Editing and Translation for Research and Grant Writing
 
-Axiom Editing provides high-level scientific editing and translation services for researchers and institutions.
+Axiom Editing provides high-level scientific editing and translation services for researchers and institutions. 
 
-I help transform complex scientific writing into clear, precise, and publication-ready English.
+We help transform complex ideas into clear, precise, and publication-ready English.
 
 ---
 
 ## Academic Editing for Non-Native English Researchers
 
-Writing in English for publication or funding applications is demanding, especially for non-native speakers.
-
-I specialize in improving texts written:
+We specialize in improving texts written:
 - by non-native English researchers  
 - using automatic translation tools  
 - under tight academic deadlines  
 
-The objective is to produce clear, natural, and academically rigorous English suitable for peer review and evaluation.
+---
 
+## From draft to publication-ready text
+
+Scientific writing must be precise, structured, and readable.
+
+Our work focuses on:
+- improving clarity without altering meaning  
+- refining academic tone and style  
+- increasing readability for reviewers  
+- aligning texts with publication and funding standards
+    
 ---
 
 ## Services
 
 ### Scientific Editing
 
-Improving clarity, structure, and language in research manuscripts.
+Improve clarity, structure, and language in research manuscripts.
 
-- Academic editing (line-by-line)
-- Language correction and rewriting
-- Clarity and coherence improvement
-- Terminology consistency
-- Preparation for journal submission
+### Scientific Translation (French → English and English → French)
 
----
-
-### Scientific Translation (French → English)
-
-Translation of scientific documents into fluent, publication-ready English.
-
-- Research articles  
-- PhD theses  
-- Conference papers  
-- Technical and institutional documents  
-
----
+Translation of scientific documents into fluent, publication-ready English or French.
 
 ### Grant Proposal Editing
 
 Specialized support for research funding applications.
-
-- Clarity and structure of proposals  
-- Strengthening of arguments  
-- Adaptation to evaluation criteria  
-- Improvement of readability for reviewers  
 
 ---
 
@@ -79,18 +67,6 @@ Each document is edited with respect for its scientific content and disciplinary
 - Research laboratories  
 - Universities and institutions  
 - Grant support offices  
-
----
-
-## From draft to publication-ready text
-
-Scientific writing must be precise, structured, and readable.
-
-My work focuses on:
-- improving clarity without altering meaning  
-- refining academic tone and style  
-- increasing readability for reviewers  
-- aligning texts with publication and funding standards  
 
 ---
 
