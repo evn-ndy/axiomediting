@@ -2,12 +2,6 @@
 title: About
 ---
 
-Axiom Editing provides professional scientific editing, translation, and research communication services for academics and researchers. The service supports French and European scholars in publishing in English-language journals and preparing competitive research grant applications.
-
----
-
-## Profile
-
 I am a native English editor with a strong understanding of French and European research environments, including academic culture, funding systems, and publication standards.
 
 I hold a PhD in Science, Technology and Society (STS) from Mines Paris – PSL University, and have worked extensively within research institutions across France and Europe.
