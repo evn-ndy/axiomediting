@@ -47,6 +47,6 @@ Confidentiality and rigor are central to all collaborations.
 
 ## [Contact](www.axiomediting.com/contact.html)
 
-For inquiries or collaboration, send a short excerpt to receive initial review and cost estimates to : 
+Send a short excerpt to receive a tailored quote and an estimated turnaround time:
 
 **Email:** evn-ndy.fshr@proton.me
