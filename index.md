@@ -52,12 +52,4 @@ Each document is edited with respect for its scientific content and disciplinary
 
 ---
 
-## [Contact](contact.html)
-
- 
-
----
-
-## Note
-
-A limited number of projects are accepted at any given time to ensure quality and attention to detail.
+#### [Contact](contact.html)
