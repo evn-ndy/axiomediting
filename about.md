@@ -11,6 +11,8 @@ title: About
 
   <div style="flex: 1;">
 
+Evan Andrew Fisher, PhD
+
 I hold a PhD in Science, Technology and Society (STS) from Mines Paris – PSL University, and have worked extensively within research institutions across France and Europe.
 
 My background combines:
