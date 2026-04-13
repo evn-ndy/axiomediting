@@ -52,11 +52,9 @@ Each document is edited with respect for its scientific content and disciplinary
 
 ---
 
-## [Request a quote](contact.html)
+## [Contact](contact.html)
 
-Send a short excerpt to receive a tailored quote and an estimated turnaround time.
-
-**Email:** evn-ndy.fshr@proton.me  
+ 
 
 ---
 
