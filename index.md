@@ -45,7 +45,3 @@ Translation of scientific documents into fluent, publication-ready English or Fr
 - Careful attention to clarity, structure, and argumentation  
 
 Each document is edited with respect for its scientific content and disciplinary context.
-
----
-
-#### [Contact](contact.html)
