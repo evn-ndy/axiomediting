@@ -1,5 +1,5 @@
 ---
-title: Axiom Editing
+title: Home
 ---
 
 ## Academic Editing and Translation for Research and Grant Writing
