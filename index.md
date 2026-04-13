@@ -31,7 +31,7 @@ Our work focuses on:
     
 ---
 
-[## Services](www.axiomediting.com/services.html)
+## [Services](www.axiomediting.com/services.html)
 
 ### Manuscript Editing
 
@@ -47,7 +47,7 @@ Translation of scientific documents into fluent, publication-ready English or Fr
 
 ---
 
-[## Why work with Axiom Editing](www.axiomediting.com/about.html)
+## [Why work with Axiom Editing](www.axiomediting.com/about.html)
 
 - Documents are edited by native English speaker  
 - Expertise in academic and scientific writing  
@@ -59,13 +59,11 @@ Each document is edited with respect for its scientific content and disciplinary
 
 ---
 
-[## Request a quote](www.axiomediting.com/contact.html)
+## [Request a quote](www.axiomediting.com/contact.html)
 
-For inquiries or project evaluation:
+Send a short excerpt to receive a tailored quote and an estimated turnaround time.
 
 **Email:** evn-ndy.fshr@proton.me  
-
-You may send a short excerpt to receive a tailored quote and an estimated turnaround time. 
 
 ---
 
