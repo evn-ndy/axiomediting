@@ -113,6 +113,6 @@ Urgent work is accepted depending on availability.
 ---
 ## [Contact](www.axiomediting.com/contact.html)
 
-For inquiries or project evaluation, send a short excerpt for evaluation and initial cost estimate to:
+Send a short excerpt to receive a tailored quote and an estimated turnaround time.
 
 **Email:** evn-ndy.fshr@proton.me
