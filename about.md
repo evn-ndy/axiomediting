@@ -8,8 +8,7 @@ title: About
     <img src="/assets/images/profile.jpg" alt="Profile photo"
          style="width: 180px; height: auto; border-radius: 4px;">
   </div>
-
-  <div style="flex: 1;">
+  <div style="flex: 1;" markdown="1">
 
 Evan Andrew Fisher, PhD
 
