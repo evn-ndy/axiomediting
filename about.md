@@ -10,12 +10,14 @@ The focus is on clarity, precision, and coherence in English-language scientific
 
 ## Profile
 
-I am a native-English research professional with a PhD in Science, Technology and Society (STS) from Mines-ParisTech (PSL University), and significant experience in research environments across France and Europe.
+I am a native English editor who understands French and European research culture, funding bodies, and publication norms, specializing in supporting French and European researchers publishing in English-language journals.
+
+I hold a PhD in Science, Technology and Society (STS) from Mines-ParisTech (PSL University), and have significant experience in research environments across France and Europe.
 
 My background combines:
-- academic research in Science and Technology Studies (STS), sociolgy, and anthropology.
+- academic research in Science and Technology Studies (STS), sociolgy, and anthropology
 - scientific writing, editing, and translation in the social sciences, the humanities, and the environmental sciences
-- research project coordination and reporting (European and national programs)
+- research project coordination and reporting (European and French national programs)
 - support for research funding applications (ANR, Horizon Europe)
 
 ---
