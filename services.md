@@ -98,7 +98,7 @@ This ensures adequate time for review and quality control, even for short texts.
 
 ## Delivery
 
-Standard turnaround depends on document length and complexity. [Send me an email](contact.html) to receive a a precise delay.
+Turnaround times vary based on document length and complexity. [Email me](contact.html) for a precise estimate.
 
 **Approximate turnaround time based on document length**
 
@@ -117,6 +117,6 @@ Urgent work is accepted depending on availability.
 ---
 ## [Contact](contact.html)
 
-Send a short excerpt to receive a tailored quote and a precise turnaround time.
+Send a short excerpt to receive a tailored quote and turnaround time.
 
 **Email:** evn-ndy.fshr@proton.me
