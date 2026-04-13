@@ -4,40 +4,38 @@ title: Services
 
 Axiom Editing provides scientific editing and translation services for researchers, academic authors, and research teams working in English.
 
-The goal is to improve clarity, readability, and publication readiness while preserving the original scientific meaning.
+The goal is to improve clarity, readability, and publication readiness while preserving intent. 
+
+
+
+We offer three levels of editing depending on the stage and quality of your draft.
 
 ---
 
-## Scientific Editing Services
-
-I offer three levels of editing depending on the stage and quality of your draft.
-
----
-
-## 1. Basic Editing
+### 1. Basic Editing
 
 **For near-final English texts that require light correction.**
 
 This service is suitable for manuscripts that are already clearly written in English and only need polishing.
 
-### Includes:
+#### Includes:
 - Grammar and spelling correction  
 - Basic syntax improvements  
 - Typographical error correction  
 - Light consistency checks  
 
-### Not included:
+#### Not included:
 - Restructuring of sentences  
 - Stylistic rewriting  
 - Deep clarity improvement  
 
-### Best for:
+#### Best for:
 - Native or near-native English writers  
 - Final drafts before submission  
 
 ---
 
-## 2. Line-by-line Editing (Recommended)
+### 2. Line-by-line Editing (Recommended)
 
 **For scientific writing drafted by non-native English speakers or texts produced with translation tools.**
 
@@ -45,7 +43,7 @@ This is the core service of Axiom Editing.
 
 Each sentence is carefully reviewed and revised where necessary to improve clarity, academic tone, and logical flow.
 
-### Includes:
+#### Includes:
 - Sentence-level editing and rewriting when needed  
 - Improvement of clarity and academic style  
 - Correction of grammar and syntax  
@@ -53,7 +51,7 @@ Each sentence is carefully reviewed and revised where necessary to improve clari
 - Improvement of flow and readability  
 - Adaptation of non-native English into publication-quality academic English  
 
-### Best for:
+#### Best for:
 - PhD manuscripts  
 - Journal articles written by non-native English speakers  
 - Texts translated with automatic tools  
@@ -61,17 +59,17 @@ Each sentence is carefully reviewed and revised where necessary to improve clari
 
 ---
 
-## 3. Scientific Translation
+### 3. Scientific Translation
 
 **Professional translation between French and English in academic and scientific contexts.**
 
-### Includes:
+#### Includes:
 - Translation of scientific manuscripts (FR → EN / EN → FR)  
 - Preservation of scientific meaning and terminology  
 - Adaptation to academic publication standards  
 - Linguistic and stylistic normalization in target language  
 
-### Best for:
+#### Best for:
 - Research articles  
 - Thesis chapters  
 - Conference papers  
@@ -113,34 +111,8 @@ Standard turnaround depends on document length and complexity.
 Urgent work is accepted depending on availability.
 
 ---
+## [Contact](www.axiomediting.com/contact.html)
 
-## How I work
-
-Each document is handled individually with attention to:
-- disciplinary context  
-- target journal or funding body  
-- clarity for reviewers and evaluators  
-
-I aim to improve readability without altering your scientific contribution.
-
----
-
-## Who this service is for
-
-- Academic researchers  
-- PhD candidates  
-- Postdoctoral researchers  
-- Research groups and laboratories  
-- Institutions preparing grant applications  
-
----
-
-## Contact
-
-For inquiries or project evaluation:
+For inquiries or project evaluation, send a short excerpt for evaluation and initial cost estimate to:
 
 **Email:** evn-ndy.fshr@proton.me
-
-You may send a short excerpt (1–2 pages) for an initial assessment and cost estimate.
-
-Typical response time: 24–48 hours.
