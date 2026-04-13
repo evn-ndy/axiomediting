@@ -111,7 +111,7 @@ Standard turnaround depends on document length and complexity.
 Urgent work is accepted depending on availability.
 
 ---
-## [Contact](www.axiomediting.com/contact.html)
+## [Contact](contact.html)
 
 Send a short excerpt to receive a tailored quote and an estimated turnaround time.
 
