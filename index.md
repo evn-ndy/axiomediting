@@ -40,7 +40,7 @@ Translation of scientific documents into fluent, publication-ready English or Fr
 
 ---
 
-## [Why work with Axiom Editing](www.axiomediting.com/about.html)
+## [Why work with Us?](www.axiomediting.com/about.html)
 
 - Documents are edited by native English speaker  
 - Expertise in academic and scientific writing  
