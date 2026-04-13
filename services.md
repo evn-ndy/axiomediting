@@ -2,8 +2,6 @@
 title: Services
 ---
 
-# Services
-
 Axiom Editing provides scientific editing and translation services for researchers, academic authors, and research teams working in English.
 
 The goal is to improve clarity, readability, and publication readiness while preserving the original scientific meaning.
