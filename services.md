@@ -115,8 +115,4 @@ Turnaround times vary based on document length and complexity. [Email me](contac
 Urgent work is accepted depending on availability.
 
 ---
-## [Contact](contact.html)
-
-Send a short excerpt to receive a tailored quote and turnaround time.
-
-**Email:** evn-ndy.fshr@proton.me
+#### [Contact](contact.html)
