@@ -35,6 +35,7 @@ My work and work I have edited has appeared in journals and academic outlets inc
 - *Ethics and Information Technology*
 - *Anthropocene*
 - *Forest Ecology and Management*
+- *La Revue d'Anthropologie des Connaissances*
 
 I have also contributed to edited volumes and research reports in both academic and policy-oriented contexts, supporting interdisciplinary research dissemination and knowledge transfer.
 
