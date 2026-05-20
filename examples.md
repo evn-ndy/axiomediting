@@ -33,11 +33,3 @@ https://doi.org/10.1016/j.ancene.2022.100333.
 
 - Trevisan, F., Troullinou, P., Kyriazanos, D., Fisher, E., Fratantoni, P., Sir, C. M., & Bertelli, V. (2024). "Deconstructing controversies to design a trustworthy AI future." *Ethics and Information Technology*, 26(2), 35.  
   https://doi.org/10.1007/s10676-024-09771-9  
-
----
-
-## [Contact](www.axiomediting.com/contact.html)
-
-Send a short excerpt to receive a tailored quote and an estimated turnaround time:
-
-**Email**: evn-ndy.fshr@proton.me
