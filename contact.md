@@ -8,7 +8,7 @@ For inquiries, project requests, or document evaluation, please get in touch.
 
 ## Email
 
-**evn-ndy.fshr@proton.me**
+**evan@axiomediting.com**
 
 This is the preferred method of contact.
 
