@@ -39,15 +39,6 @@ My work and work I have edited has appeared in journals and academic outlets inc
 
 I have also contributed to edited volumes and research reports in both academic and policy-oriented contexts, supporting interdisciplinary research dissemination and knowledge transfer.
 
-<div style="text-align: center; margin: 2rem 0;">
-  <a href="mailto:evan@axiomediting.com" 
-     style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
-            text-decoration: none; font-family: sans-serif; font-size: 15px; 
-            letter-spacing: 0.08em; border-radius: 2px; display: inline-block;">
-    Get a Free Quote →
-  </a>
-</div>
-
 ---
 
 ## Approach
