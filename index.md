@@ -25,7 +25,7 @@ Our work focuses on:
 - improving clarity without altering meaning  
 - refining academic tone and style  
 - increasing readability for reviewers  
-- aligning texts with publication and funding standards
+- aligning texts with publication standards and evaluation criteria
     
 ---
 
