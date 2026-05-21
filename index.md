@@ -8,6 +8,14 @@ Axiom Editing provides professional scientific editing, translation, and researc
 
 The service supports non-native English scholars in publishing and preparing competitive research grant applications.
 
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="mailto:evan@axiomediting.com" 
+     style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
+            text-decoration: none; font-family: sans-serif; font-size: 15px; 
+            letter-spacing: 0.08em; border-radius: 2px; display: inline-block;">
+    Get a Free Quote →
+  </a>
+</div>
 ---
 
 ## From draft to publication
