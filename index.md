@@ -6,8 +6,6 @@ title: Home
 
 Axiom Editing provides professional scientific editing, translation, and research communication services for academics and researchers. 
 
-The service supports non-native English scholars in publishing and preparing competitive research grant applications.
-
 <div style="text-align: center; margin: 2rem 0;">
   <a href="mailto:evan@axiomediting.com" 
      style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
