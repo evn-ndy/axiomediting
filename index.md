@@ -40,6 +40,6 @@ Your research deserves to be read. As a researcher myself — with a PhD in STS 
 Funding decisions are made on first impressions. Drawing on significant experience supporting researchers through ANR, ERC, and Horizon Europe applications, I help you sharpen your proposal for non-specialist reviewers, from the summary to the impact statement.
 
 ## Translation 
-###(French → English and English → French)
+### (French → English and English → French)
 
 Precise, publication-ready translation by a native English speaker with full French fluency. I translate research articles, abstracts, and reports while preserving the technical register and argumentative structure of the original.
