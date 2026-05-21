@@ -16,6 +16,7 @@ The service supports non-native English scholars in publishing and preparing com
     Get a Free Quote →
   </a>
 </div>
+
 ---
 
 ## From draft to publication
