@@ -21,7 +21,7 @@ Axiom Editing provides professional scientific editing, translation, and researc
 
 Scientific writing must be precise, structured, and readable.
 
-Our work focuses on:
+I focus on:
 - improving clarity without altering meaning  
 - refining academic tone and style  
 - increasing readability for reviewers  
@@ -33,12 +33,13 @@ Our work focuses on:
 
 ## Manuscript Editing
 
-Improve clarity, structure, and language in research manuscripts.
+Your research deserves to be read. As a researcher myself — with a PhD in STS and publications in anthropology, STS, and environmental science — I edit for clarity, argument structure, and academic English without losing your voice or altering your analysis.
 
 ## Grant Proposal Editing
 
-Specialized support for research funding applications.
+Funding decisions are made on first impressions. Drawing on significant experience supporting researchers through ANR, ERC, and Horizon Europe applications, I help you sharpen your proposal for non-specialist reviewers, from the summary to the impact statement.
 
-## Translation (French → English and English → French)
+## Translation 
+###(French → English and English → French)
 
-Translation of scientific documents into fluent, publication-ready English or French.
+Precise, publication-ready translation by a native English speaker with full French fluency. I translate research articles, abstracts, and reports while preserving the technical register and argumentative structure of the original.
