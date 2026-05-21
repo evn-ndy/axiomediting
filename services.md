@@ -27,7 +27,16 @@ This service is suitable for manuscripts that are already clearly written in Eng
 
 #### Best for:
 - Native or near-native English writers  
-- Final drafts before submission  
+- Final drafts before submission
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="mailto:evan@axiomediting.com" 
+     style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
+            text-decoration: none; font-family: sans-serif; font-size: 15px; 
+            letter-spacing: 0.08em; border-radius: 2px; display: inline-block;">
+    Get a Free Quote →
+  </a>
+</div>
 
 ---
 
@@ -53,6 +62,15 @@ Each sentence is carefully reviewed and revised where necessary to improve clari
 - Texts translated with automatic tools  
 - Drafts requiring substantial linguistic refinement  
 
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="mailto:evan@axiomediting.com" 
+     style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
+            text-decoration: none; font-family: sans-serif; font-size: 15px; 
+            letter-spacing: 0.08em; border-radius: 2px; display: inline-block;">
+    Get a Free Quote →
+  </a>
+</div>
+
 ---
 
 ### 3. Scientific Translation
@@ -70,6 +88,15 @@ Each sentence is carefully reviewed and revised where necessary to improve clari
 - Thesis chapters  
 - Conference papers  
 - Technical or institutional documents  
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="mailto:evan@axiomediting.com" 
+     style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
+            text-decoration: none; font-family: sans-serif; font-size: 15px; 
+            letter-spacing: 0.08em; border-radius: 2px; display: inline-block;">
+    Get a Free Quote →
+  </a>
+</div>
 
 ---
 
