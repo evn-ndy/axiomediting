@@ -26,6 +26,15 @@ To ensure a fast and accurate response, please include:
 
 You may also attach a short excerpt (1–2 pages) for initial assessment and cost estimate.
 
+<div style="text-align: center; margin: 2rem 0;">
+  <a href="mailto:evan@axiomediting.com" 
+     style="background-color: #1a2e4a; color: white; padding: 14px 32px; 
+            text-decoration: none; font-family: sans-serif; font-size: 15px; 
+            letter-spacing: 0.08em; border-radius: 2px; display: inline-block;">
+    Get a Free Quote →
+  </a>
+</div>
+
 ---
 
 ## Turnaround time
